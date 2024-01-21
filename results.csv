@@ -1,0 +1,17 @@
+,model,model_name,type_of_model,model_accuracy,model_recall,model_f1_score
+0,Logistcic Regression,lgr_model_1,Initial Model,66.27,66.27,55.93
+1,Logistcic Regression,lgr_model_2,Forward Selection,65.89,65.89,52.49
+2,Logistcic Regression,lgr_model_3,Hyper Parameter Tuning,66.64,66.64,54.89
+3,Decision Tree Classifier,dt_model_1,Initial Model,49.49,49.49,50.98
+4,Decision Tree Classifier,dt_model_2,Forward Selection,50.88,50.88,51.35
+5,Decision Tree Classifier,dt_model_3,Hyper Parameter Tuning,65.71,65.71,52.57
+6,Random Forest Classifier,rf_model_1,Initial Model,66.64,66.64,53.98
+7,Random Forest Classifier,rf_model_2,Forward Selection,66.08,66.08,54.68
+8,Random Forest Classifier,rf_model_3,Hyper Parameter Tuning,66.17,66.17,53.01
+9,KNeighborsClassifier,knc_model_1,Initial Model,60.43,60.43,53.51
+10,KNeighborsClassifier,knc_model_2,Forward Selection,60.06,60.06,54.65
+11,KNeighborsClassifier,knc_model_3,Hyper Parameter Tuning,64.04,64.04,53.63
+12,Suppot Vector Machine,svc_model_1,Initial Model,66.08,66.08,52.61
+13,Suppot Vector Machine,svc_model_2,Forward Selection,65.99,65.99,52.84
+14,Suppot Vector Machine,svc_model_3,Hyper Parameter Tuning,66.08,66.08,52.61
+15,Neural Networks,Neural Networks,Initial Model,66.27,,
