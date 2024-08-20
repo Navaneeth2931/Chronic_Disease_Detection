@@ -1,0 +1,12 @@
+pandas==2.2.2
+numpy
+matplotlib
+seaborn
+plotly
+joblib
+scikit-learn
+dash
+
+
+
+#### Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass - Before activating virtual environment on windows
